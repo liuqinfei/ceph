@@ -118,7 +118,7 @@ CephFS distributed file system
   MDS daemons in response to changes to the ``max_mds`` configuration. Expect
   further enhancements in the future to simplify MDS scaling.
 
-* cephfs-top is a new utility for looking at performance metrics from CephFS
+* ``cephfs-top`` is a new utility for looking at performance metrics from CephFS
   clients. It is development preview quality and will have bugs. See the CephFS
   documentation for more information.
 
